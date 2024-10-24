@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ita27rmp100&label=Profile%20views&color=0e75b6&style=flat" alt="ita27rmp100" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.ver'hcel.app/?username=ita27rmp100" alt="ita27rmp100" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ita27rmp100" alt="ita27rmp100" /></a> </p>
 
 - 🌱 I’m currently learning **server management**.
 - 👨‍🎓 I'm currently a **computer science student**.
