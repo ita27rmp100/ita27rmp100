@@ -7,7 +7,7 @@
   <br>
 </div>
 <p align="center">
-  <img align="right" alt="coding" width="106%" src="https://th.bing.com/th/id/R.5c8f08b5fe55e12baae6fc54e46c343a?rik=hb8qO5jgNw2XxA&pid=ImgRaw&r=0">
+  <img align="right" alt="coding" width="100%" height="50%" src="https://analyticsindiamag.com/wp-content/uploads/2018/12/programming.gif">
 </p>
 <p align="center">
   <br><br>
@@ -72,10 +72,9 @@
 ![pip](https://img.shields.io/badge/pip-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ita27rmp100&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ita27rmp100&hide_progress=false&theme=dark&langs_count=6) 
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=ita27rmp100&theme=github-dark&hide_border=false)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ita27rmp100&theme=github-dark&hide_border=false)
 
 <br>
 
