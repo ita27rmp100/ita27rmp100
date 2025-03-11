@@ -1,36 +1,46 @@
-<h1 align="center">Hi 👋, I'm Tayeb Abderahim Ismail</h1>
-<h3 align="center">Algerian Computer Science Student</h3>
-<img align="right" alt="coding" width="95%" src="https://media.tenor.com/GfSX-u7VGM4AAAAM/coding.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ita27rmp100&label=Profile%20views&color=0e75b6&style=flat" alt="ita27rmp100" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ita27rmp100" alt="ita27rmp100" /></a> </p>
+<div align="center">
+  <h1>Hi 👋, I'm Tayeb Abderahim Ismail</h1>
+  <h3>Computer Science Student</h3>
+  <a href="https://committers.top/algeria#ita27rmp100">
+    <img src="https://img.shields.io/badge/Top%20100%20Committer%20in%20Algeria-Rank%23100-brightgreen?style=for-the-badge&labelColor=gray" alt="Top Committer Badge"/>
+  </a>
+  <br>
+</div>
+<p align="center">
+  <img align="right" alt="coding" width="106%" src="https://th.bing.com/th/id/R.5c8f08b5fe55e12baae6fc54e46c343a?rik=hb8qO5jgNw2XxA&pid=ImgRaw&r=0">
+</p>
+<p align="center">
+  <br><br>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=ita27rmp100&theme=darkhub&no-frame=true&row=1&column=7&margin-w=15" alt="ita27rmp100 Trophies"/>
+  </a>
+</p>
 
 - 💻 I’m currently working on **some new tools**
 
 - 🌱 I’m currently learning **server management**
 
-- 👨‍💻 I’m **computer science student**
+- 👨‍💻 I’m **computer science student at ESTIN 🤍**
 
-- 🤝 I’m interested in working at **Google**
+- 👨‍💻 All of my projects are available at <a href="https://github.com/ita27rmp100?tab=repositories">Repos</a>
 
-- 👨‍💻 All of my projects are available at [below](below)
-
-- 💬 Ask me about **front end, python, linux.**
+- 💬 Ask me about **FrontEd, python, linux.**
 
 - 📫 How to reach me **tayebabderahim27@gmail.com**
 
-- ⚡ Fun fact **do you know that the first computer bug was an actual bug! 🐛😂**
-
+<a href="https://github.com/ita27rmp100">
+    <img src="https://komarev.com/ghpvc/?username=ita27rmp100&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="ita27rmp100" />
+</a>
+  
 <h3 align="left">Contact me:</h3>
-<p align="left">
-<a href="https://codepen.io/ita27rmp100" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="ita27rmp100" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ita27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ita27" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/27974367" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="27974367" height="30" width="40" /></a>
-<a href="https://fb.com/ita27rmp100" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ita27rmp100" height="30" width="40" /></a>
-<a href="https://instagram.com/abderahim_ita27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abderahim_ita27" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ita27rmp100" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ita27rmp100" height="30" width="40" /></a>
-</p>
+
+[![CodePen](https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/ita27rmp100) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ita27) 
+[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/27974367) 
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/ita27rmp100) 
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/abderahim_ita27) 
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/ita27rmp100)
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p>🚀 Tech Stack</p> 
@@ -63,9 +73,15 @@
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ita27rmp100&hide_progress=false&theme=dark&langs_count=6) <br>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ita27rmp100&hide_progress=false&theme=dark&langs_count=6) 
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=ita27rmp100&theme=github-dark&hide_border=false)
+
+<br>
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ita27rmp100&show_icons=true&theme=dark) 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ita27rmp100&theme=tokyonight&hide_border=false)
+
 
 <h3 align="left">SUPPORT ME :</h3>
 <p><a href="https://ko-fi.com/ita27rmp100"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="ita27rmp100" /></a></p><br><br>
-
