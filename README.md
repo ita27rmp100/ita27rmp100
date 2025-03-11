@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tayeb Abderahim Ismail</h1>
-<h3 align="center">Algerian Computer science</h3>
+<h3 align="center">Algerian Computer Science Student</h3>
 <img align="right" alt="coding" width="95%" src="https://media.tenor.com/GfSX-u7VGM4AAAAM/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ita27rmp100&label=Profile%20views&color=0e75b6&style=flat" alt="ita27rmp100" /> </p>
@@ -37,7 +37,8 @@
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Language](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C language](https://img.shields.io/badge/Language-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-525252?style=for-the-badge&logo=linux&logoColor=white)
 
 #### 🌐 Web Development
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -58,6 +59,8 @@
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![pip](https://img.shields.io/badge/pip-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ita27rmp100&hide_progress=false&theme=dark&langs_count=6) <br>
