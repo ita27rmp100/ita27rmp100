@@ -72,15 +72,13 @@
 ![pip](https://img.shields.io/badge/pip-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ita27rmp100&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ita27rmp100&theme=github-dark&hide_border=false)
 
 <br>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ita27rmp100&show_icons=true&theme=dark) 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ita27rmp100&theme=tokyonight&hide_border=false)
-
+![ita27rmp100's Stats](https://github-readme-stats.vercel.app/api?username=ita27rmp100&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![ita27rmp100's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ita27rmp100&theme=vue-dark&hide_border=true)
+![ita27rmp100's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ita27rmp100&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 <h3 align="left">SUPPORT ME :</h3>
 <p><a href="https://ko-fi.com/ita27rmp100"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="ita27rmp100" /></a></p><br><br>
