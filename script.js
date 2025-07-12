@@ -6,7 +6,7 @@ async function getRank(){
     let response = await fetch('https://committers.top/rank_only/algeria.json')
     let data = await response.json()
     let userData = data.user
-    if(userData.includes('ita27rmp100')) return userData.indexOf('ita27rmp100')
+    if(userData.includes('ita27rmp100')) return userData.indexOf('ita27rmp100')+1
     else return -1
 }
 getRank().then(rank=>{
