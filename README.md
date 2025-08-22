@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi 👋, I'm Tayeb Abderahim Ismail</h1>
-  <h3>Computer Science Student</h3>
+  <h3>2nd year CS Student</h3>
   <a href="https://committers.top/algeria#ita27rmp100">
     <img src="https://img.shields.io/badge/Top%2010%20Committer%20in%20Algeria-Rank%238-brightgreen?style=for-the-badge&labelColor=gray" alt="Top Committer Badge"/>
     
