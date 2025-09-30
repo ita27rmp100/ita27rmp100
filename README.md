@@ -2,7 +2,7 @@
   <h1>Hi 👋, I'm Tayeb Abderahim Ismail</h1>
   <h3>2nd year CS Student</h3>
   <a href="https://committers.top/algeria#ita27rmp100">
-    <img src="https://img.shields.io/badge/Top%2010%20Committer%20in%20Algeria-Rank%238-brightgreen?style=for-the-badge&labelColor=gray" alt="Top Committer Badge"/>
+    <img src="https://img.shields.io/badge/Top%2010%20Committer%20in%20Algeria-Rank%237-brightgreen?style=for-the-badge&labelColor=gray" alt="Top Committer Badge"/>
     
   </a>
   <br>
@@ -17,15 +17,13 @@
   </a>
 </p>
 
-- 💻 I’m currently working on **some new tools**
-
-- 🌱 I’m currently learning **server management**
+- 🌱 I’m currently learning **Artificial Intelligence & Data Science**
 
 - 👨‍💻 I’m **computer science student at ESTIN 🤍**
 
-- 👨‍💻 All of my projects are available at <a href="https://github.com/ita27rmp100?tab=repositories">Repos</a>
+- 👨‍💻 All of my projects and works are available at <a href="https://ita27.site">Repos</a>
 
-- 💬 Ask me about **FrontEd, python, linux.**
+- 💬 Ask me about **FrontEd, JavaScript, Python.**
 
 - 📫 How to reach me **tayebabderahim27@gmail.com**
 
@@ -35,20 +33,18 @@
   
 <h3 align="left">Contact me:</h3>
 
-[![CodePen](https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/ita27rmp100) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ita27) 
-[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/27974367) 
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/ita27rmp100) 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/abderahim_ita27) 
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/tayeb_abderahim27) 
+[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/c/ita27rmp100)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/ita27rmp100)
 
 
-<h3 align="left">Languages and Tools:</h3>
-<p>🚀 Tech Stack</p> 
+<h3 align="left">🚀 Tech Stack</h3>
 
+#### 💻 Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C language](https://img.shields.io/badge/Language-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Assembly](https://img.shields.io/badge/Assembly-525252?style=for-the-badge&logo=linux&logoColor=white)
 
 #### 🌐 Web Development
@@ -61,19 +57,33 @@
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
-#### 🛢️ Database
+#### 🤖 AI & Data Science
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-003B57?style=for-the-badge&logo=plotly&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-0099CC?style=for-the-badge&logo=python&logoColor=white)
+
+#### 🛢️ Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+#### ☁️ Backend & Cloud Services
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+
 #### 🔧 Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![pip](https://img.shields.io/badge/pip-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+
+#### 🌐 Networking
+![Packet Tracer](https://img.shields.io/badge/Packet%20Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ita27rmp100&theme=github-dark&hide_border=false)
 
